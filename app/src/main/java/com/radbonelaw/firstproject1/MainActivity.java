@@ -8,9 +8,8 @@ public class MainActivity extends Activity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    int i = 2;
 
     setContentView(R.layout.activity_main);
   }
-//tHE RAIN IN sPAIN Falls mainly
+
 }
