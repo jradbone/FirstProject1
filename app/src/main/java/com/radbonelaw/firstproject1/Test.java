@@ -7,4 +7,6 @@ package com.radbonelaw.firstproject1;
 public class Test {
 
   int x = 1;
+
+  int y = 2;
 }
